@@ -24,7 +24,7 @@ Professional Smart RAG application built with:
 
 ## Main App
 
-- Streamlit app: [streamlit_self_rag_step7.py](streamlit_self_rag_step7.py)
+- Streamlit app: [streamlit_smart_rag.py](streamlit_smart_rag.py)
 
 ## Setup
 
@@ -49,7 +49,7 @@ cp .env.example .env
 ## Run
 
 ```bash
-streamlit run streamlit_self_rag_step7.py
+streamlit run streamlit_smart_rag.py
 ```
 
 ## Security Notes

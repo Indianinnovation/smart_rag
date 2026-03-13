@@ -1,4 +1,4 @@
-# Smart RAG (Self-RAG Step 7) – Streamlit Portal
+# Smart RAG – Streamlit Portal
 
 Professional Smart RAG application built with:
 
